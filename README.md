@@ -1,5 +1,5 @@
-# ReplaceAnchorHrefs
-//Jquery Plugin to search for all anchor tags and replace a part of the href with whatever you want.
+# Replace Anchor Hrefs
+Jquery Plugin to search for all anchor tags and replace a part of the href with whatever you want.
 
 Sample Use
 Replace all anchor tags
